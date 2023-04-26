@@ -1,0 +1,13 @@
+<resources>
+    <string name="topBarTitle">Book Information Gatherer</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="userID">User ID</string>
+    <string name="bookName">Book name</string>
+    <string name="bookISBN">ISBN</string>
+    <string name="bookAuthor">Author</string>
+    <string name="bookDescription">Description</string>
+    <string name="bookPrice">Price</string>
+    <string name="final_price">Tax tabulated</string>
+    <string name="bookButtonTabulate">tabulate</string>
+</resources>
